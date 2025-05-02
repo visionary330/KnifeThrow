@@ -1,6 +1,6 @@
 # KnifeThrow 🎯
 
-Welcome to KnifeThrow, a thrilling 2D knife throwing mini-game written in Java! Test your skills, aim, and timing as you throw knives at spinning targets. Developed by Sunny Jayendra Patel, KnifeThrow features exciting gameplay, customizable options, and potential for further development.
+Welcome to KnifeThrow, a thrilling 2D knife throwing mini-game written in Java! Test your skills, aim, and timing as you throw knives at spinning targets. Developed by Ryan Lee, KnifeThrow features exciting gameplay, customizable options, and potential for further development.
 
 ![KnifeThrow Gameplay](/knifethrow_demonstration.jpg)
 
@@ -27,15 +27,10 @@ java KnifeThrow
 - `javax.swing.*`: Additional GUI components and features.
 
 ## Customization 🎨
-KnifeThrow is a project developed by Sunny Jayendra Patel and is intended solely for playing purposes. It is not intended to be modified or distributed for commercial purposes. Users are encouraged to enjoy the game as-is and share it freely with others for entertainment purposes only. Any attempt to modify or distribute the game for commercial gain is strictly prohibited.
-
-## GitHub Stats 📊
-- [![GitHub Repo Stars](https://img.shields.io/github/stars/sunnypatell/KnifeThrow?style=social)](https://github.com/sunnypatell/KnifeThrow/stargazers)
-- [![GitHub Issues](https://img.shields.io/github/issues/sunnypatell/KnifeThrow)](https://github.com/sunnypatell/KnifeThrow/issues)
-- [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/sunnypatell/KnifeThrow)](https://github.com/sunnypatell/KnifeThrow/pulls)
+KnifeThrow is a project developed by Ryan Lee and is intended solely for playing purposes. It is not intended to be modified or distributed for commercial purposes. Users are encouraged to enjoy the game as-is and share it freely with others for entertainment purposes only. Any attempt to modify or distribute the game for commercial gain is strictly prohibited.
 
 ## Credits 🙌
-- **Developer:** Sunny Jayendra Patel
+- **Developer:** Ryan Lee
 - **Media:** Any additional media used in the game, such as images and sounds, are property of their respective owners and used with permission.
 
 ## Future Developments 🚧

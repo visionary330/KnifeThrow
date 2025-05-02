@@ -2,8 +2,6 @@
 
 Welcome to KnifeThrow, a thrilling 2D knife throwing mini-game written in Java! Test your skills, aim, and timing as you throw knives at spinning targets. Developed by Ryan Lee, KnifeThrow features exciting gameplay, customizable options, and potential for further development.
 
-![KnifeThrow Gameplay](/knifethrow_demonstration.jpg)
-
 
 ## Features 🚀
 - **Menu Screen:** Start the game with an intuitive menu interface.
